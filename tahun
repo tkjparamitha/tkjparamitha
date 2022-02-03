@@ -27,4 +27,5 @@ else:
  impor acak  
  impor os
  impor ulang
+ os. system ( 'cls' if os .name== 'nt' else 'clear')
  
