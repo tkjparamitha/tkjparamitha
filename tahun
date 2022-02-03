@@ -13,4 +13,7 @@ if (tahun % 4) == 0:
    #Tergolong Tahun Kabisat
  print("{0} adalah Tahun Kabisat".format(tahun))
  
+ #Bukan Tergolong Tahun Kabisat
+       else:
   
+ 
