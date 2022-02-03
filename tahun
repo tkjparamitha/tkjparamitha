@@ -5,3 +5,4 @@ tahun = int(input("Tulis Sebuah Tahun: "))
 if (tahun % 4) == 0:
 
 #Perulangan Kedua
+ if (tahun % 100) == 0:
