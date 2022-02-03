@@ -2,3 +2,4 @@
 tahun = int(input("Tulis Sebuah Tahun: "))
 
 #Perulangan Pertama
+if (tahun % 4) == 0:
