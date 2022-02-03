@@ -9,3 +9,5 @@ if (tahun % 4) == 0:
 
 #Perulangan Ketiga
   if (tahun % 400) == 0: 
+
+   #Tergolong Tahun Kabisat
