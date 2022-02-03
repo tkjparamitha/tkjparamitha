@@ -1,3 +1,4 @@
 # Menginput Tahun
 tahun = int(input("Tulis Sebuah Tahun: "))
-           
+
+#Perulangan Pertama
