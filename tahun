@@ -43,3 +43,4 @@ while True:
   w().tahun, dt.now().bulan, dt.now().hari,22):
        print("Jam Kerja")
        with open(hosts_path, "r+") as file:
+         content = file.read()
