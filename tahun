@@ -56,3 +56,4 @@ while True:
                      file.seek(0)  // reset the pointer to the top of the text file
                      for line in content:
                // ini adalah baris yang cukup mengecoh, pada dasarnya kita bisa
+               berlebihan dalam menulis seluruh filenya
