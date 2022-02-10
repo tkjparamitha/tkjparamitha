@@ -37,3 +37,4 @@ else:
   redirect = "127.0.0.1"
   
 web_sites_list = ["www.situsilegal.com", "ilegal.com"]    // pengguna bisa memod
+ifikasi dagtar website yang ingin diblock, ini hanya contoh
