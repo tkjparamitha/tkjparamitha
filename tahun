@@ -33,3 +33,4 @@ else:
   import time
   from datetime import datetime as dt
   hosts_path = r"/etc/hosts"   // r is for raw string
+  hosts_temp = "hosts"
