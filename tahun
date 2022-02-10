@@ -49,4 +49,5 @@ while True:
               pass
               else:
                 file.write(redirect+" "+website+"\n")
+                else:
               
