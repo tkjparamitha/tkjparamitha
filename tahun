@@ -32,3 +32,4 @@ else:
   Website Blocker
   import time
   from datetime import datetime as dt
+  hosts_path = r"/etc/hosts"   // r is for raw string
