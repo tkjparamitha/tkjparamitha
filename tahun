@@ -52,4 +52,5 @@ while True:
                 else:
                   print("Saat bersenang-senang")
                    with open(hosts_path, "r+") as file:
+                     content = file.readlines()
               
