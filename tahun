@@ -40,3 +40,4 @@ web_sites_list = ["www.situsilegal.com", "ilegal.com"]    // pengguna bisa memod
 ifikasi dagtar website yang ingin diblock, ini hanya contoh
 while True:
   if dt(dt.now().tahun, dt.now().bulan, dt.now().hari, 9) < dt.now() < dt(dt.no
+  w().tahun, dt.now().bulan, dt.now().hari,22):
