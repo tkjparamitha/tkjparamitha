@@ -59,3 +59,4 @@ while True:
                berlebihan dalam menulis seluruh filenya
                 if not any(website in baris for website in web_sites_list):
                    file.write(line)
+                    // lakukan sebaliknya
