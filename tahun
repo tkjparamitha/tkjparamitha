@@ -60,3 +60,4 @@ while True:
                 if not any(website in baris for website in web_sites_list):
                    file.write(line)
                     // lakukan sebaliknya
+                     file.truncate() // baris ini digunakan untuk menghapus baris tambahan
