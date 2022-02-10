@@ -30,3 +30,4 @@ else:
  os. system ( 'cls' if os .name== 'nt' else 'clear')
  
   Website Blocker
+  import time
