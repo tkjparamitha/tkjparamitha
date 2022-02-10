@@ -44,3 +44,4 @@ while True:
        print("Jam Kerja")
        with open(hosts_path, "r+") as file:
          content = file.read()
+         for website in web_sites_list:
