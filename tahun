@@ -58,3 +58,4 @@ while True:
                // ini adalah baris yang cukup mengecoh, pada dasarnya kita bisa
                berlebihan dalam menulis seluruh filenya
                 if not any(website in baris for website in web_sites_list):
+                   file.write(line)
