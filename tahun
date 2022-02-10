@@ -51,4 +51,5 @@ while True:
                 file.write(redirect+" "+website+"\n")
                 else:
                   print("Saat bersenang-senang")
+                   with open(hosts_path, "r+") as file:
               
