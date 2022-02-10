@@ -48,3 +48,5 @@ while True:
            if website in content:
               pass
               else:
+                file.write(redirect+" "+website+"\n")
+              
