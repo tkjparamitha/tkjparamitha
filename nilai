@@ -3,7 +3,7 @@
  uts = float(input("Masukkan nilai UTS: "))
  uas = float(input("Masukkan nilai UAS: "))
 
-menghitung nilai akhir sesuai dengan bobot
+#Menghitung nilai akhir sesuai dengan bobot
 nilai = (0.15 * tugas) + (0.35 * uts).
 
 if > nilai 80:
