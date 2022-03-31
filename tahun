@@ -42,15 +42,15 @@ while True:
   if dt(dt.now().tahun, dt.now().bulan, dt.now().hari, 9) < dt.now() < dt(dt.no
   w().tahun, dt.now().bulan, dt.now().hari,22):
        print("Jam Kerja")
-       with open(hosts_path, "r+") as file:
+     with open(hosts_path, "r+") as file:
          content = file.read()
          for website in web_sites_list:
            if website in content:
               pass
-              else:
+            else:
                 file.write(redirect+" "+website+"\n")
                 else:
-                  print("Saat bersenang-senang")
+            print("Saat bersenang-senang")
                    with open(hosts_path, "r+") as file:
                      content = file.readlines()
                      file.seek(0)  // reset the pointer to the top of the text file
