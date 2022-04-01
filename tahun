@@ -46,7 +46,7 @@ while True:
          content = file.read()
          for website in web_sites_list:
            if website in content:
-              pass
+              pass 
             else:
                 file.write(redirect+" "+website+"\n")
                 else:
