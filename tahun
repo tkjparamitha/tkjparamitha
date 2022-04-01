@@ -2,7 +2,7 @@
 tahun = int(input("Tulis Sebuah Tahun: "))
 
 #Perulangan Pertama
-if (tahun  % 4) == 0:  
+if (tahun  % 4) == 0:
 
 #Perulangan Kedua 
 if (tahun  % 100) == 0: 
